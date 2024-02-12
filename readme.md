@@ -16,7 +16,7 @@ triggering the action using this particular selection
 
 
 
-<img src="./VIRTUAL_PAINTING/output_photo/output1.png" alt="Output">
+<img src="./Virtual_Painting/output_photo/output1.png" alt="Output">
 
 
 
