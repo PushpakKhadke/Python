@@ -16,7 +16,7 @@ triggering the action using this particular selection
 
 
 
-<img src="./Virtual_Painting/output_photo/output1.png" alt="Output">
+<img src="https://github.com/PushpakKhadke/Python/blob/main/Virtual_Painting/output_photo/output1.png" alt="Output">
 
 
 
