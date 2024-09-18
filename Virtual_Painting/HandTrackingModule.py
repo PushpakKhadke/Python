@@ -1,4 +1,4 @@
-import cv2
+import cv21
 import mediapipe as mp
 import time
 import math
